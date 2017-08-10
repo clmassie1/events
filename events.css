@@ -1,0 +1,42 @@
+
+
+ button {
+        display: block;
+    }
+/*.guineaPig {
+        color:blue;
+    }*/
+
+
+/*.addColor {
+    border-color: blue;
+}*/
+
+
+   /*.addColor {
+        color: darkblue;
+    }
+
+
+    .flashy{
+    color: lightslategray;
+}*/
+
+.MakeLarge{
+    font-size: 2em;
+    text-transform: uppercase;
+
+}
+
+.borderColor{
+    border-bottom-color: blue;
+}
+
+.roundingSides{
+    border: 2px solid;
+    border-radius: 25px;
+}
+
+.color{
+    color: blue;
+}
